@@ -32,7 +32,6 @@
             </div>
 
         <?php endforeach; ?>
-        <
         
 
 </section>
