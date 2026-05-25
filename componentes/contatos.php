@@ -9,7 +9,7 @@
 
 ?>
 
-<section class="bg-[url('./img/Background_Contacts.png')] bg-cover bg-center w-full h-screen flex flex-col items-center justify-center">
+<section class="bg-[url('./img/Background_Contacts.png')] bg-cover bg-center w-full h-screen flex flex-col items-center justify-center py-12">
 
     
     <div class="w-full text-center">
@@ -32,7 +32,6 @@
             </div>
 
         <?php endforeach; ?>
-        <
         
 
 </section>
