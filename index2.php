@@ -19,7 +19,7 @@
         <main class="w-auto">
 
             
-            
+            <?php include('./componentes/apresentacao.php');?>
             <?php include('./componentes/projetos.php');?>
 
             <?php include('./componentes/contatos.php');?>

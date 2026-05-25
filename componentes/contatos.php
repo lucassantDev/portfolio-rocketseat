@@ -19,7 +19,7 @@
     <?php foreach($redes as $rede): ?>
         <div class="bg-gray-800 w-1/4 py-6  flex items-center justify-between">
             <div class="flex items-center text-gray-200 mx-2">
-                <?php echo $rede['logo']; ?>
+                <?=$rede['logo']; ?>
                 <p class="text-xl mx-2 font-semibold"><?php echo $rede['rede']; ?></p>
             </div>
 
